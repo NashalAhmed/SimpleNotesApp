@@ -9,6 +9,7 @@ namespace SimpleNotesApp.Controllers
 
         public IActionResult Index()
         {
+            int x = "error";
             return View(notes);
         }
 
