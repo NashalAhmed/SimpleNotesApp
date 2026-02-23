@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleNotesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd067bf6e09f7641268e018d51ee6e5a748fe6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleNotesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleNotesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
