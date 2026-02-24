@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: simplenotesapp
-    runtime: node
-    repo: https://github.com/YOUR_USERNAME/SimpleNotesApp
-    branch: main
-    buildCommand: npm install
-    startCommand: npm start
-    autoDeploy: true
